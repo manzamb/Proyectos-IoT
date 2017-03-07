@@ -1,0 +1,3 @@
+[submodule "2017-I/PMLabIoT"]
+	path = 2017-I/PMLabIoT
+	url = git@github.com:manzamb/PMLabIoT.git
