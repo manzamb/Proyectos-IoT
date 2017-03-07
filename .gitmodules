@@ -4,3 +4,6 @@
 [submodule "2017-I/HomeAAndroidIoT"]
 	path = 2017-I/HomeAAndroidIoT
 	url = git@github.com:manzamb/HomeAAndroidIoT.git
+[submodule "2017-I/ChildLAugmentedReality-"]
+	path = 2017-I/ChildLAugmentedReality-
+	url = git@github.com:manzamb/ChildLAugmentedReality-.git
