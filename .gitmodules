@@ -7,3 +7,6 @@
 [submodule "2017-I/ChildLAugmentedReality-"]
 	path = 2017-I/ChildLAugmentedReality-
 	url = git@github.com:manzamb/ChildLAugmentedReality-.git
+[submodule "2017-I/Tourism-foodIoTAR"]
+	path = 2017-I/Tourism-foodIoTAR
+	url = git@github.com:manzamb/TourismFoodIoTAR.git
