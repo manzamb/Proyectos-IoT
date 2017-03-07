@@ -10,3 +10,6 @@
 [submodule "2017-I/Tourism-foodIoTAR"]
 	path = 2017-I/Tourism-foodIoTAR
 	url = git@github.com:manzamb/TourismFoodIoTAR.git
+[submodule "2017-I/IoTIntelligentGateway"]
+	path = 2017-I/IoTIntelligentGateway
+	url = git@github.com:manzamb/IoTIntelligentGateway.git
